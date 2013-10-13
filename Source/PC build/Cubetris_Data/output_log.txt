@@ -1,0 +1,199 @@
+Initialize engine version: 4.2.1f4 (4d30acc925c2)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1230]
+    Renderer: AMD Radeon HD 6900 Series
+    Vendor:   ATI
+    VRAM:     2027 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\PlayerIOUnity3DClient.dll (this message is harmless)
+Loading C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\PlayerIOUnity3DClient.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\System.dll (this message is harmless)
+Screen:SplashScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SplashScreen:Show(String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\SplashScreen.cs:72)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:122)
+MenuManager:Start() (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:81)
+ 
+(Filename: C Line: 0)
+
+Enter screen: SplashScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ApplicationManager:OnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:105)
+EventsManager:RaiseOnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\EventsManager.cs:28)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:127)
+MenuManager:Start() (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:81)
+ 
+(Filename: C Line: 0)
+
+Enter screen: SplashScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ApplicationManager:OnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:105)
+EventsManager:RaiseOnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\EventsManager.cs:28)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:127)
+MenuManager:Start() (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:81)
+ 
+(Filename: C Line: 0)
+
+Screen:MainMenuScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenuScreen:Show(String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\MainMenuScreen.cs:60)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:122)
+SplashScreen:Update() (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\SplashScreen.cs:57)
+ 
+(Filename: C Line: 0)
+
+Enter screen: MainMenuScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ApplicationManager:OnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:105)
+EventsManager:RaiseOnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\EventsManager.cs:28)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:127)
+SplashScreen:Update() (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\SplashScreen.cs:57)
+ 
+(Filename: C Line: 0)
+
+Enter screen: MainMenuScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ApplicationManager:OnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:105)
+EventsManager:RaiseOnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\EventsManager.cs:28)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:127)
+SplashScreen:Update() (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\SplashScreen.cs:57)
+ 
+(Filename: C Line: 0)
+
+SinglePlayerButton
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenuScreen:ClickHandler(GameObject) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\MainMenuScreen.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UIButtonMessage:Send() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:77)
+UIButtonMessage:OnClick() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:56)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UICamera:Notify(GameObject, String, Object) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:594)
+UICamera:ProcessTouch(Boolean, Boolean) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:1062)
+UICamera:ProcessMouse() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:844)
+UICamera:Update() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:702)
+ 
+(Filename: C Line: 0)
+
+Screen:GameScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameScreen:Show(String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\GameScreen.cs:129)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:122)
+ApplicationManager:MoveToGame(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:85)
+MainMenuScreen:ClickHandler(GameObject) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\MainMenuScreen.cs:73)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UIButtonMessage:Send() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:77)
+UIButtonMessage:OnClick() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:56)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UICamera:Notify(GameObject, String, Object) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:594)
+UICamera:ProcessTouch(Boolean, Boolean) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:1062)
+UICamera:ProcessMouse() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:844)
+UICamera:Update() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:702)
+ 
+(Filename: C Line: 0)
+
+Enter screen: GameScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ApplicationManager:OnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:105)
+EventsManager:RaiseOnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\EventsManager.cs:28)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:127)
+ApplicationManager:MoveToGame(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:85)
+MainMenuScreen:ClickHandler(GameObject) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\MainMenuScreen.cs:73)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UIButtonMessage:Send() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:77)
+UIButtonMessage:OnClick() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:56)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UICamera:Notify(GameObject, String, Object) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:594)
+UICamera:ProcessTouch(Boolean, Boolean) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:1062)
+UICamera:ProcessMouse() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:844)
+UICamera:Update() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:702)
+ 
+(Filename: C Line: 0)
+
+Enter screen: GameScreen
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ApplicationManager:OnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:105)
+EventsManager:RaiseOnShowScreen(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\EventsManager.cs:28)
+MenuManager:ShowScreen(String, String[]) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\MenuManager.cs:127)
+ApplicationManager:MoveToGame(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:85)
+MainMenuScreen:ClickHandler(GameObject) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\MainMenuScreen.cs:73)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UIButtonMessage:Send() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:77)
+UIButtonMessage:OnClick() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:56)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UICamera:Notify(GameObject, String, Object) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:594)
+UICamera:ProcessTouch(Boolean, Boolean) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:1062)
+UICamera:ProcessMouse() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:844)
+UICamera:Update() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:702)
+ 
+(Filename: C Line: 0)
+
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\C:\Windows\System32\Kinect10
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/.\libC:\Windows\System32\Kinect10.dll
+Fallback handler could not load library C:/Users/user/Desktop/cubetris_yelman/Source/PC build/Cubetris_Data/Mono/libC:\Windows\System32\Kinect10.dll
+C:\Windows\System32\Kinect10.dll
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+KinectSensor:Awake() (at C:\Users\user\Documents\cubetris\Assets\Kinect\KinectSensor.cs:142)
+UnityEngine.GameObject:SetActiveRecursively(Boolean)
+ApplicationManager:MoveToGame(String) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Managers\ApplicationManager.cs:88)
+MainMenuScreen:ClickHandler(GameObject) (at C:\Users\user\Documents\cubetris\Assets\Scripts\Menus\Screens\MainMenuScreen.cs:73)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UIButtonMessage:Send() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:77)
+UIButtonMessage:OnClick() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs:56)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UICamera:Notify(GameObject, String, Object) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:594)
+UICamera:ProcessTouch(Boolean, Boolean) (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:1062)
+UICamera:ProcessMouse() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:844)
+UICamera:Update() (at C:\Users\user\Documents\cubetris\Assets\NGUI\Scripts\UI\UICamera.cs:702)
+ 
+(Filename: C Line: 0)
+
+Platform assembly: C:\Users\user\Desktop\cubetris_yelman\Source\PC build\Cubetris_Data\Managed\System.Xml.dll (this message is harmless)

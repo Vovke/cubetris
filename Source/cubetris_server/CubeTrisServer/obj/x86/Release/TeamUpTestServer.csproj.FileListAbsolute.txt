@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\bin\Release\TeamUpTestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\bin\Release\TeamUpTestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\bin\Release\Player.IO Development Server.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\bin\Release\Player.IO GameLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\bin\Release\TeamUpServerCode.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\bin\Release\Player.IO GameLibrary.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\bin\Release\TeamUpServerCode.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\obj\x86\Release\TeamUpTestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\TeamUpTestServer\TeamUpTestServer\obj\x86\Release\TeamUpTestServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\TeamUpTestServer\obj\x86\Release\TeamUpTestServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\TeamUpTestServer\obj\x86\Release\TeamUpTestServer.pdb

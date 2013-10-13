@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level id="2" duration="300" difficulty="3" >
+	<goalFigure>
+		<cube vector="0,-1.02"/>
+		<triangle vector="0.4,-1.02"/>
+	</goalFigure>
+	<figures>
+		<figure type="cube" speed="1" time="1" spawner_id="1" color_id="4" />
+		<figure type="cube" speed="2" time="0" spawner_id="0" color_id="1" />
+		<figure type="rectangle" speed="2" time="3" spawner_id="2" color_id="3" />
+		<figure type="cube" speed="1" time="4" spawner_id="2" color_id="4" />
+		<figure type="cube" speed="2" time="5" spawner_id="3" color_id="1" />
+		<figure type="rectangle" speed="2" time="6" spawner_id="2" color_id="3" />
+		<figure type="cube" speed="1" time="7" spawner_id="1" color_id="4" />
+		<figure type="cube" speed="2" time="8" spawner_id="4" color_id="1" />
+		<figure type="rectangle" speed="2" time="9" spawner_id="2" color_id="3" />
+		<figure type="cube" speed="1" time="10" spawner_id="2" color_id="4" />
+		<figure type="cube" speed="2" time="11" spawner_id="3" color_id="1" />
+		<figure type="rectangle" speed="2" time="12" spawner_id="4" color_id="3" />
+		<figure type="cube" speed="1" time="13" spawner_id="2" color_id="4" />
+		<figure type="cube" speed="2" time="14" spawner_id="1" color_id="1" />
+		<figure type="rectangle" speed="2" time="15" spawner_id="2" color_id="3" />
+		<figure type="cube" speed="1" time="16" spawner_id="3" color_id="4" />
+		<figure type="cube" speed="2" time="17" spawner_id="4" color_id="1" />
+		<figure type="rectangle" speed="2" time="18" spawner_id="0" color_id="3" />
+		<figure type="cube" speed="1" time="19" spawner_id="1" color_id="4" />
+		<figure type="cube" speed="2" time="20" spawner_id="0" color_id="1" />
+		<figure type="rectangle" speed="2" time="21" spawner_id="2" color_id="3" />
+		<figure type="cube" speed="1" time="22" spawner_id="3" color_id="4" />
+		<figure type="cube" speed="2" time="23" spawner_id="2" color_id="1" />
+		<figure type="rectangle" speed="2" time="24" spawner_id="2" color_id="3" />
+		<figure type="cube" speed="2" time="24" spawner_id="0" color_id="1" />
+		<figure type="cube" speed="2" time="25" spawner_id="1" color_id="1" />
+		<figure type="cube" speed="2" time="26" spawner_id="4" color_id="1" />
+		<figure type="cube" speed="2" time="27" spawner_id="0" color_id="1" />
+		<figure type="cube" speed="2" time="27" spawner_id="1" color_id="1" />
+		<figure type="cube" speed="2" time="27" spawner_id="2" color_id="1" />
+		<figure type="cube" speed="2" time="27" spawner_id="3" color_id="1" />
+		<figure type="cube" speed="2" time="27" spawner_id="4" color_id="1" />
+		<figure type="cube" speed="2" time="29" spawner_id="0" color_id="1" />
+		<figure type="cube" speed="2" time="29" spawner_id="1" color_id="1" />
+		<figure type="cube" speed="2" time="29" spawner_id="2" color_id="1" />
+		<figure type="cube" speed="2" time="29" spawner_id="3" color_id="1" />
+		<figure type="cube" speed="2" time="29" spawner_id="4" color_id="1" />
+	</figures>
+	<rockets>
+		<rocket type="explosive_rocket" speed="250"  time="25" spawner_id="4"/>
+		<rocket type="non_explosive_rocket" speed="250"  time="30" spawner_id="0"/>
+		<rocket type="explosive_rocket" speed="250"  time="33" spawner_id="4"/>
+		<rocket type="non_explosive_rocket" speed="250"  time="34" spawner_id="0"/>
+		<rocket type="explosive_rocket" speed="250"  time="35" spawner_id="4"/>
+		<rocket type="non_explosive_rocket" speed="250"  time="36" spawner_id="0"/>
+		<rocket type="explosive_rocket" speed="250"  time="37" spawner_id="4"/>
+	</rockets>
+	<bonuses>
+		<bonus type="score" speed="4" time="60" spawner_id="2"/>
+		<bonus type="slow" speed="8" time="60" spawner_id="2"/>
+		<bonus type="defence" speed="2" time="60" spawner_id="2"/>
+	</bonuses>
+</level>
