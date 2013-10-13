@@ -1,0 +1,20 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServerCode\bin\Debug\CubeTrisServerCode.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServerCode\bin\Debug\CubeTrisServerCode.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServerCode\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServerCode\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServerCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServerCode\obj\x86\Debug\CubeTrisServerCode.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServerCode\obj\x86\Debug\CubeTrisServerCode.pdb
+C:\Users\user\Documents\cubetris_server\CubeTrisServerCode\bin\Debug\CubeTrisServerCode.dll
+C:\Users\user\Documents\cubetris_server\CubeTrisServerCode\bin\Debug\CubeTrisServerCode.pdb
+C:\Users\user\Documents\cubetris_server\CubeTrisServerCode\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\user\Documents\cubetris_server\CubeTrisServerCode\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\user\Documents\cubetris_server\CubeTrisServerCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\cubetris_server\CubeTrisServerCode\obj\x86\Debug\CubeTrisServerCode.dll
+C:\Users\user\Documents\cubetris_server\CubeTrisServerCode\obj\x86\Debug\CubeTrisServerCode.pdb
+C:\Users\Lia.nepo\Desktop\LamaGames\cubetris_server\CubeTrisServerCode\bin\Debug\CubeTrisServerCode.dll
+C:\Users\Lia.nepo\Desktop\LamaGames\cubetris_server\CubeTrisServerCode\bin\Debug\CubeTrisServerCode.pdb
+C:\Users\Lia.nepo\Desktop\LamaGames\cubetris_server\CubeTrisServerCode\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Lia.nepo\Desktop\LamaGames\cubetris_server\CubeTrisServerCode\obj\x86\Debug\CubeTrisServerCode.csprojResolveAssemblyReference.cache
+C:\Users\Lia.nepo\Desktop\LamaGames\cubetris_server\CubeTrisServerCode\obj\x86\Debug\CubeTrisServerCode.dll
+C:\Users\Lia.nepo\Desktop\LamaGames\cubetris_server\CubeTrisServerCode\obj\x86\Debug\CubeTrisServerCode.pdb

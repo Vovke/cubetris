@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\bin\Release\CubeTrisServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\bin\Release\CubeTrisServer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\bin\Release\Player.IO Development Server.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\bin\Release\Player.IO GameLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\bin\Release\Player.IO GameLibrary.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\bin\Release\TeamUpServerCode.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\obj\x86\Release\CubeTrisServer.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\CubeTrisServer\CubeTrisServer\obj\x86\Release\CubeTrisServer.pdb
